@@ -1,2 +1,24 @@
-# dev-portfolio
-Este repositório contém o código-fonte do meu portfólio profissional. Desenvolvido para apresentar meus projetos, experiências e habilidades técnicas de forma clara e organizada. A aplicação foi construída com foco em performance, responsividade e uma boa experiência do usuário.
+# Olá, eu sou Jadson Vieira! 👋
+
+🎯 Analista de Dados Sênior na iMile Delivery  
+🎓 Cursando Ciência de Dados | Formado em Tecnologia Industrial  
+📊 Trabalho com Power BI, Python, SQL, Web Scraping e Automação
+
+---
+
+## 🚀 Habilidades:
+- Power BI | Python | SQL Server | Excel Avançado
+- Airflow | Spark (em estudo) | dbt
+- Web Scraping e automação de dados
+
+---
+
+## 📚 Projetos:
+- **Análise de Entregas**: [Ver projeto](https://github.com/seuusuario/projeto-entregas)
+- **Web Scraping Amazon**: [Ver projeto](https://github.com/seuusuario/scraping-amazon)
+
+---
+
+## 📫 Contato:
+- [LinkedIn](https://linkedin.com/in/seuusuario)
+- Email: seuemail@email.com
